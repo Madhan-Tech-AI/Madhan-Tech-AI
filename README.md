@@ -1,119 +1,104 @@
-<!-- ----------------------------------------
-   ⚡ PREMIUM GITHUB PROFILE README – MADHAN KUMAR P
------------------------------------------ -->
+<!-- ------------------------------------------------------------
+          🐉🔥 RED DRAGON COBRA THEME – MADHAN KUMAR P
+------------------------------------------------------------- -->
 
-<!-- Banner (GitHub Safe Hosted) -->
+<!-- 3D Dragon Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdoachhoubi/abdoachhoubi/main/banner.gif" width="900">
+  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/main/assets/dragon-red.gif" width="900" />
 </p>
 
-<!-- Animated Title -->
+<!-- Animated Neon Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=I'm+Madhan+Kumar+P+🚀;AI+%26+Full-Stack+Developer;Creative+Builder+%7C+Tech+Innovator;Crafting+AI-Powered+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=38&duration=3000&pause=900&color=FF1E1E&center=true&vCenter=true&width=900&lines=Madhan+Kumar+P+🐉+%7C+Red+Dragon+Coder;AI+Developer+%7C+Full+Stack+Engineer;Forging+AI-Powered+Digital+Weapons;Crafting+Fire+%26+Code+Since+Day+One" />
 </h1>
 
-<!-- Badges -->
+<!-- Fire Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhan-Tech-AI&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Madhan-Tech-AI?style=flat&color=ff69b4" />
-  <img src="https://img.shields.io/github/stars/Madhan-Tech-AI?style=flat&color=yellow" />
-  <img src="https://img.shields.io/badge/AI%20Developer-%F0%9F%A4%96-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%9A%80-orange?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Madhan-Tech-AI&label=🔥+Warriors+Who+Visited&color=FF0000&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Madhan-Tech-AI?style=for-the-badge&color=FF1818&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Madhan-Tech-AI?style=for-the-badge&color=E00000&label=Stars" />
+  <img src="https://img.shields.io/badge/AI%20Warlock-🔥-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Samurai-⚔️-darkred?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 **About Me**
-I’m **Madhan Kumar P**, an enthusiastic **AI & DS student** and a passionate  
-**AI + Full-Stack Developer** who builds scalable, modern, and intelligent applications.
+## 🐍🔥 **Who Am I – The Red Cobra of Code**
+I am **Madhan Kumar P** — an **AI & Full-Stack Developer** who codes with  
+the precision of a **cobra strike** and the intensity of a **dragon's flame**.
 
-💡 I love blending **AI + Web + Cloud + Design**  
-🔥 Founder mindset — Turning Ideas → Real Products  
-🎯 Vision: Build impactful AI-powered solutions used by millions  
+✨ Creating **AI Systems, Full-Stack Apps, Automation Tools, Cloud Engines**  
+✨ Obsessed with **speed, efficiency, power, and design**  
+✨ My portfolio: **https://pmadhankumar.netlify.app**
 
----
-
-## 🌐 **Portfolio Website**
-### 👉 **https://pmadhankumar.netlify.app**
+🔥 _“Code is my fire. Projects are my battlefield.”_
 
 ---
 
-## ⚡ **Tech Stack – Skills I Use Daily**
+## 🛠️ **3D Tech Arsenal (Weapons I Wield)**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,react,angular,nodejs,express,firebase,mongodb,mysql,git,github,aws,azure,docker,postman,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,express,html,css,cs,git,github,firebase,mongodb,mysql,aws,azure,docker,postman,vscode,figma&theme=light" width="900"/>
 </p>
 
 ---
 
-## 🚀 **Featured Premium Projects**
-### ⭐ **AI & Automation**
-- **Planzo – AI Study Planner**  
-  AI Notes, Quizzes, Voice Input, Calendar, Dashboard, PDF Export.
-
-- **Story Seed Unleashed**  
-  AI storytelling platform for kids with creativity enhancement tools.
-
-- **AI Resume Optimizer**  
-  ATS Score + LLM-driven resume improvement.
-
----
-
-### ⭐ **Web Apps & Dashboards**
-- **Event Management Dashboard – React**  
-- **Finance Analytics Dashboard – Firebase**  
-- **Smart Food Ordering App – MERN**  
-
----
-
-### ⭐ **Utility Tools**
-- **Smart URL Shortener**  
-- **QR Generator**  
-- **Task Flow Manager**  
-
----
-
-## 📊 **GitHub Stats & Insights**
+# 🐉 **3D Dragon Stats – Verified Working**
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhan-Tech-AI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Madhan-Tech-AI&show_icons=true&theme=highcontrast&title_color=ff0000&icon_color=ff0000&text_color=ffffff&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-Tech-AI&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-Tech-AI&layout=compact&theme=highcontrast&title_color=ff0000&text_color=ffffff&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 🌌 **Contribution Galaxy**
+# 🔥 **Dragon Activity Heatmap**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan-Tech-AI&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan-Tech-AI&theme=redical&hide_border=true&radius=10" />
 </p>
 
 ---
 
-## 🐍 **Contribution Snake Animation**
+# 🐍 **Cobra Snake Animation – Red Edition**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-red.svg" />
 </p>
 
 ---
 
-## 🧠 **Random Tech Quote**
+# 🚀🔥 **Featured Legendary Projects**
+### 🔥 **AI Weapons**
+- **Planzo – AI Study Planner**  
+- **Story Seed Unleashed – AI Story Engine**  
+- **AI Resume Optimizer – ATS + LLM Augmented**
+
+### ⚔️ **Next-Gen Systems**
+- Event Management Dashboard  
+- Finance Analytics Engine  
+- Smart Food Ordering App  
+
+---
+
+# 🧠 **Dragon Wisdom – Random Quote**
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=ff0000" />
 </p>
 
 ---
 
-## 🤝 **Connect With Me**
+# 🌐 **Summon Me (Links)**
 <p align="center">
-  <a href="https://pmadhankumar.netlify.app"><img src="https://skillicons.dev/icons?i=web" width="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://github.com/Madhan-Tech-AI"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https://pmadhankumar.netlify.app"><img src="https://skillicons.dev/icons?i=web" width="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+  <a href="https://github.com/Madhan-Tech-AI"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <b>✨ "Building the Future, One Line of Code at a Time." ✨</b>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" />
 </p>
+
+<p align="center"><b>🔥 “A Red Dragon Never Quits. A Cobra Never Misses.” 🔥</b></p>
