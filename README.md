@@ -72,7 +72,7 @@ class CrimsonFlameSovereign {
 - 🔭 **Currently Forging**: PLANZO - AI Study Strategist
 - 🌱 **Mastering**: Advanced AI, System Architecture, Cloud Sorcery
 - 💬 **Ask me about**: AI Systems, Angular, MERN, Firebase, DevOps
-- 📫 **Summon me**: madhanpdeveloper@gmail.com
+- 📫 **Summon me**: madhankumar070406@gmail.com
 - ⚡ **Draconic Truth**: *"I debug bugs with dragon fire"*
 
 ---
@@ -209,10 +209,10 @@ timeline
   <a href="https://pmadhankumar.netlify.app">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/madhan-kumar-p">
+  <a href="[https://linkedin.com/in/madhan-kumar-p](https://www.linkedin.com/in/madhan-kumar-p-759402324/)">
     <img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:madhanpdeveloper@gmail.com">
+  <a href="mailto:madhankumar070406@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Madhan-Tech-AI">
