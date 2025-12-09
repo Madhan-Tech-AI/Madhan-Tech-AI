@@ -1,115 +1,126 @@
 <!-- ===========================================================
-     🐉🔥 MADHAN KUMAR P — RED DRAGON / GOD OF WAR / GoT README
+        🐉🔥 MADHAN KUMAR P — GAME OF THRONES × RED DRAGON THEME
 =============================================================== -->
 
-<!-- 🔥 FULL WIDTH CINEMATIC DRAGON BANNER -->
+<!-- 🔥 FULL WIDTH DRAGON FIRE BANNER (CINEMATIC) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alfafara/alfafara/main/cinematic_dragon_fire.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/alfafara/alfafara/main/cinematic_dragon_fire.gif" width="100%"/>
 </p>
 
-<!-- 🔱 GOT FONT TITLE (Animated) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Trajan+Pro&size=38&duration=3500&pause=900&color=FF0000&center=true&vCenter=true&width=1200&lines=MADHAN+KUMAR+P;The+Red+Dragon+of+Code;AI+Warlock+%7C+Full-Stack+Spartan;Forging+Software+in+the+Flames+of+Creation" />
-</h1>
-
-<!-- ⚔️ THEMED BADGES -->
+<!-- ⚔️ ANIMATED LONG BANNER WITH NAME -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhan-Tech-AI&label=🔥+Warriors+Who+Entered+The+Throne+Room&color=FF0000&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Madhan-Tech-AI?style=for-the-badge&color=8B0000&label=Allies" />
-  <img src="https://img.shields.io/github/stars/Madhan-Tech-AI?style=for-the-badge&color=B30000&label=Honor+Points" />
-  <img src="https://img.shields.io/badge/AI+Sorcerer-🪄-crimson?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fullstack+Spartan-⚔️-darkred?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/red-fire-name-banner.gif" width="750px"/>
 </p>
 
-<!-- 🔥 RED DRAGON DIVIDER -->
+<!-- 🐉 CUSTOM ANIMATED DRAGON LOGO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Resources/red_divider.gif" width="700px" />
+  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/dragon-emblem.gif" width="150px"/>
+</p>
+
+<!-- 🐺 GOT STYLE FONT TITLE (MEDIUM SIZE) -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Trajan+Pro&size=26&duration=3000&pause=900&color=FF3A3A&center=true&vCenter=true&width=1000&lines=Madhan+Kumar+P;Red+Dragon+of+the+Digital+Realm;AI+Sorcerer+%7C+Full-Stack+Warlord;Forging+Code+in+the+Flames+of+Creation" />
+</h2>
+
+<!-- 🔥 3D GLOWING RUNE BORDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/rune-border-red.gif" width="100%"/>
 </p>
 
 ---
 
-# 🐉 **About Me — The Red Dragon of Code**
+# 🐉 About Me — *The Red Dragon of Code*
 🔥 I am **Madhan Kumar P**,  
-an AI & Full-Stack Developer inspired by the brutal elegance of **God of War**,  
-the mystical fire of **Game of Thrones**,  
-and the unstoppable force of **digital dragons**.
+a creator of mystical logic, forged through **AI sorcery**, **full-stack mastery**, and **battle-tested coding discipline**.
 
-🩸 _“Fire makes the blade. Pressure makes the warrior. Code makes the future.”_
+🩸 *“Fire sharpens steel. Pressure shapes warriors. Code builds empires.”*
 
-🛡 Portfolio: **https://pmadhankumar.netlify.app**
+🏰 Portfolio: **https://pmadhankumar.netlify.app**
 
 ---
 
-<!-- ⚔️ 3D DRAGON ANIMATION -->
+<!-- 🐉 3D DRAGON ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alfafara/alfafara/main/3d_red_dragon.gif" width="400px" />
+  <img src="https://raw.githubusercontent.com/alfafara/alfafara/main/3d_red_dragon.gif" width="330px"/>
 </p>
 
 ---
 
-# ⚔️ **Tech Arsenal (Forged in Fire)**  
+# ⚔️ House Sigils — *Guilds I Belong To*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-sigil-fire.gif" width="140"/>
+  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-sigil-dragon.gif" width="140"/>
+  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-sigil-wolf.gif" width="140"/>
+</p>
+
+---
+
+# 🛡️ **Tech Arsenal — Tools Forged in Fire**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,express,html,css,cs,git,github,firebase,mongodb,mysql,aws,azure,docker,postman,vscode,figma&theme=dark" width="900"/>
 </p>
 
 ---
 
-# 🩸🔥 **Warrior Stats — (GOD OF WAR × DARK MODE RED)**
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Madhan-Tech-AI&show_icons=true&theme=dracula&title_color=ff0000&icon_color=ff0000&text_color=ffffff&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-Tech-AI&layout=compact&theme=dracula&title_color=ff0000&text_color=ffffff&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 **Battlefield Heatmap**
+<!-- 🔥 ANIMATED RUNE BORDER -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan-Tech-AI&theme=high-contrast&color=ff0000&line=ff0000&point=ffffff&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/rune-border-red.gif" width="100%"/>
 </p>
 
 ---
 
-# 🐍 **The Red Serpent — Snake of Valyria**
+# 🎭 **Interactive Character Cards — My GoT Personas**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<!-- 🔥 AI Warlock Card -->
+<img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-card-ai-warlock.gif" width="260px"/>
+
+<!-- 🐉 Dragonborn Engineer -->
+<img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-card-dragonborn.gif" width="260px"/>
+
+<!-- ⚔️ Full-Stack Spartan -->
+<img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-card-spartan.gif" width="260px"/>
+
 </p>
 
 ---
 
-# 🏛️ **Legendary Projects (Chronicled in the Great Library)**
+# 📜 **Legendary Projects – Chronicles of My Realm**
 
-### 🔥 **AI Weapons**
-- ⚔️ **Planzo — AI Study Strategist**
-- 🐉 **Story Seed Unleashed — AI Mythmaker**
-- 🪄 **AI Resume War-Forged Optimizer**
+### 🔥 AI Weapons  
+- 🐉 **Planzo — AI Study Strategist**  
+- 🔮 **Story Seed Unleashed — AI Mythmaker**  
+- ⚔️ **AI Resume War-Forged Optimizer**  
 
-### ⚔️ **Full-Stack Expeditions**
-- Event Management Kingdom Dashboard  
-- Finance Analytics Oracle  
+### ⚔️ Full-Stack Expeditions  
+- Kingdom Event Management Dashboard  
+- Finance Oracle Analytics System  
 - Smart Food Ordering Realm  
 
 ---
 
-<!-- 🔥 FIRE LOOP ANIMATION -->
+<!-- 🔥 DRAGON FIRE LOOP -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikAgrawal/Resources/master/fire.gif" width="300px" />
+  <img src="https://raw.githubusercontent.com/BhavikAgrawal/Resources/master/fire.gif" width="260px"/>
 </p>
 
-# 🐉 **“Fire Cannot Kill a Dragon.”**
-<p align="center">
-<b><i>“In the land of code, only those who wield fire shall rise.”</i></b>
-</p>
+<h3 align="center"><i>
+"Fire cannot kill a dragon.  
+But it awakens one."
+</i></h3>
 
 ---
 
-# 🌐 **Summon Me to Your Realm**
+# 🌐 **Summon Me**
 <p align="center">
-  <a href="https://pmadhankumar.netlify.app"><img src="https://skillicons.dev/icons?i=web" width="48"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
-  <a href="https://github.com/Madhan-Tech-AI"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
+  <a href="https://pmadhankumar.netlify.app"><img src="https://skillicons.dev/icons?i=web" width="45"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://github.com/Madhan-Tech-AI"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+</p>
+
+<!-- 🔥 FINAL RUNE BORDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/rune-border-red.gif" width="100%"/>
 </p>
 
