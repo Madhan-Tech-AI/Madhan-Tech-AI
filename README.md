@@ -1,16 +1,15 @@
 <!-- ----------------------------------------
-    🎨 GITHUB PROFILE README – PREMIUM EDITION
-    Author: Madhan-Tech-AI
+   ⚡ PREMIUM GITHUB PROFILE README – MADHAN KUMAR P
 ----------------------------------------- -->
 
-<!-- Banner -->
+<!-- Banner (GitHub Safe Hosted) -->
 <p align="center">
-  <img src="https://i.imgur.com/9P2bMQS.gif" width="900px"/>
+  <img src="https://raw.githubusercontent.com/abdoachhoubi/abdoachhoubi/main/banner.gif" width="900">
 </p>
 
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=I'm+Madhan+Kumar+P+🚀;AI+%26+Full-Stack+Developer;Tech+Visionary+%7C+Creative+Builder;I+Build+AI-Powered+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=I'm+Madhan+Kumar+P+🚀;AI+%26+Full-Stack+Developer;Creative+Builder+%7C+Tech+Innovator;Crafting+AI-Powered+Digital+Experiences" />
 </h1>
 
 <!-- Badges -->
@@ -24,56 +23,60 @@
 
 ---
 
-## 🧑‍🚀 **About Me**
-I'm a passionate **AI & DS Student**, a creative **Full-stack Developer**, and a tech enthusiast  
-building **powerful AI-driven applications, automation tools, interactive dashboards, and cloud-based systems**.
+## 👨‍💻 **About Me**
+I’m **Madhan Kumar P**, an enthusiastic **AI & DS student** and a passionate  
+**AI + Full-Stack Developer** who builds scalable, modern, and intelligent applications.
 
-💡 I love blending **AI + Code + Design** to craft beautiful and impactful digital products.  
-🔥 Founder mindset — Creating projects, not just finishing assignments.
+💡 I love blending **AI + Web + Cloud + Design**  
+🔥 Founder mindset — Turning Ideas → Real Products  
+🎯 Vision: Build impactful AI-powered solutions used by millions  
 
 ---
 
-## ⚡ **Tech Stack — Tools I Control**
+## 🌐 **Portfolio Website**
+### 👉 **https://pmadhankumar.netlify.app**
+
+---
+
+## ⚡ **Tech Stack – Skills I Use Daily**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,react,angular,nodejs,express,firebase,mongodb,mysql,git,github,aws,azure,docker,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,react,angular,nodejs,express,firebase,mongodb,mysql,git,github,aws,azure,docker,postman,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-## 🚀 **Premium Projects You Should See**
-### ⭐ **AI / Automation**
+## 🚀 **Featured Premium Projects**
+### ⭐ **AI & Automation**
 - **Planzo – AI Study Planner**  
-  AI-powered notes, quizzes, analytics dashboard, voice features & more.
+  AI Notes, Quizzes, Voice Input, Calendar, Dashboard, PDF Export.
 
 - **Story Seed Unleashed**  
-  Kids-focused AI storytelling & creativity platform.
+  AI storytelling platform for kids with creativity enhancement tools.
 
 - **AI Resume Optimizer**  
-  GPT-powered resume scoring with ATS analysis.
+  ATS Score + LLM-driven resume improvement.
 
 ---
 
-### ⭐ **Web Apps / Dashboards**
-- **Event Management Dashboard** (React)  
-- **Finance Analytics Dashboard** (Next.js + Firebase)  
-- **Smart Food Ordering App** (MERN)
+### ⭐ **Web Apps & Dashboards**
+- **Event Management Dashboard – React**  
+- **Finance Analytics Dashboard – Firebase**  
+- **Smart Food Ordering App – MERN**  
 
 ---
 
-### ⭐ **Mini Tools**
+### ⭐ **Utility Tools**
 - **Smart URL Shortener**  
 - **QR Generator**  
-- **Task Flow Manager**
+- **Task Flow Manager**  
 
 ---
 
-## 📊 **GitHub Stats & Analytics**
+## 📊 **GitHub Stats & Insights**
 <div align="center">
 
-<!-- Normal Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Madhan-Tech-AI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<!-- Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-Tech-AI&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
@@ -87,29 +90,30 @@ building **powerful AI-driven applications, automation tools, interactive dashbo
 
 ---
 
-## 🐍 **Contribution Snake**
+## 🐍 **Contribution Snake Animation**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🪄 **Random Tech Quote**
+## 🧠 **Random Tech Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-## 🤝 **Let’s Connect**
+## 🤝 **Connect With Me**
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48px"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48px"/></a>
+  <a href="https://pmadhankumar.netlify.app"><img src="https://skillicons.dev/icons?i=web" width="45"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://github.com/Madhan-Tech-AI"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <b>💙 "Building the future, one line of code at a time."</b>
+  <b>✨ "Building the Future, One Line of Code at a Time." ✨</b>
 </p>
