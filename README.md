@@ -1,126 +1,107 @@
-<!-- ===========================================================
-        🐉🔥 MADHAN KUMAR P — GAME OF THRONES × RED DRAGON THEME
-=============================================================== -->
+<!-- ============================================================================
+        🐉🔥 MADHAN KUMAR P — RED DRAGON × GAME OF THRONES READMΞ
+============================================================================ -->
 
-<!-- 🔥 FULL WIDTH DRAGON FIRE BANNER (CINEMATIC) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alfafara/alfafara/main/cinematic_dragon_fire.gif" width="100%"/>
+<!-- 🔥 CINEMATIC RED DRAGON MASTERHEAD -->
+[![MasterHead](https://raw.githubusercontent.com/alfafara/alfafara/main/cinematic_dragon_fire.gif)](https://pmadhankumar.netlify.app)
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Trajan+Pro&size=29&duration=3000&pause=900&color=FF2A2A&center=true&vCenter=true&width=900&lines=Hail!+I+am+Madhan+Kumar+P;The+Red+Dragon+of+Code;AI+Sorcerer+%7C+Full-Stack+Warlord;Forging+Software+in+the+Fire+of+Creation" />
+</h1>
+
+<h3 align="center">🔥 A passionate AI & Full-Stack Developer from India 🔥</h3>
+
+<!-- 🔥 CODING GIF (Right Side) -->
+<img align="right" alt="Coding Dragon" width="400"
+     src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer/dragon-coder.gif">
+
+<!-- 👁 VIEW COUNTER -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Madhan-Tech-AI&label=Visitors+to+the+Dragon's+Lair&color=8B0000&style=flat" />
 </p>
 
-<!-- ⚔️ ANIMATED LONG BANNER WITH NAME -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/red-fire-name-banner.gif" width="750px"/>
-</p>
-
-<!-- 🐉 CUSTOM ANIMATED DRAGON LOGO -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/dragon-emblem.gif" width="150px"/>
-</p>
-
-<!-- 🐺 GOT STYLE FONT TITLE (MEDIUM SIZE) -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Trajan+Pro&size=26&duration=3000&pause=900&color=FF3A3A&center=true&vCenter=true&width=1000&lines=Madhan+Kumar+P;Red+Dragon+of+the+Digital+Realm;AI+Sorcerer+%7C+Full-Stack+Warlord;Forging+Code+in+the+Flames+of+Creation" />
-</h2>
-
-<!-- 🔥 3D GLOWING RUNE BORDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/rune-border-red.gif" width="100%"/>
-</p>
-
----
-
-# 🐉 About Me — *The Red Dragon of Code*
-🔥 I am **Madhan Kumar P**,  
-a creator of mystical logic, forged through **AI sorcery**, **full-stack mastery**, and **battle-tested coding discipline**.
-
-🩸 *“Fire sharpens steel. Pressure shapes warriors. Code builds empires.”*
-
-🏰 Portfolio: **https://pmadhankumar.netlify.app**
-
----
-
-<!-- 🐉 3D DRAGON ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alfafara/alfafara/main/3d_red_dragon.gif" width="330px"/>
+<!-- 🐦 SOCIAL BADGE -->
+<p align="left">
+  <a href="#" target="blank">
+    <img src="https://img.shields.io/badge/Follow-On-X-8B0000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# ⚔️ House Sigils — *Guilds I Belong To*
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-sigil-fire.gif" width="140"/>
-  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-sigil-dragon.gif" width="140"/>
-  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-sigil-wolf.gif" width="140"/>
+### 🔥 **I’m currently forging**
+- A mythical AI weapon: **Planzo — AI Study Strategist**
+
+### 🔥 **I’m mastering**
+- **Advanced AI • Full-Stack Magic • Architecture Sorcery**
+
+### 🔥 **Ask me about**
+- **AI Systems, Angular, MERN, Firebase, UI Engineering**
+
+### 🔥 **Reach me at**
+- **madhanpdeveloper@gmail.com**
+
+### ⚡ **Fun Fact**
+- *“I debug bugs with dragon fire.”*
+
+---
+
+# 🌐 Connect with me
+<p align="left">
+<a href="#"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
 </p>
 
 ---
 
-# 🛡️ **Tech Arsenal — Tools Forged in Fire**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,express,html,css,cs,git,github,firebase,mongodb,mysql,aws,azure,docker,postman,vscode,figma&theme=dark" width="900"/>
+# 🛡️ Languages & Tools (Weapons of the Realm)
+<p align="left"> 
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-<!-- 🔥 ANIMATED RUNE BORDER -->
+# 🐉🔥 DRAGON ACTIVITY GRAPH  
+[![Madhan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhan-Tech-AI&theme=redical&bg_color=0a0a0a&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/Madhan-Tech-AI)
+
+---
+
+<p>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhan-Tech-AI&show_icons=true&layout=compact&theme=tokyonight&title_color=ff0000" />
+
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=Madhan-Tech-AI&show_icons=true&theme=tokyonight&title_color=ff0000" />
+</p>
+
+<br><br><br>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/rune-border-red.gif" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhan-Tech-AI&theme=tokyonight&ring=ff0000&fire=ff0000&currStreakLabel=ffffff" />
 </p>
 
 ---
 
-# 🎭 **Interactive Character Cards — My GoT Personas**
+# 🐍 Snake of Valyria  
 <p align="center">
-
-<!-- 🔥 AI Warlock Card -->
-<img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-card-ai-warlock.gif" width="260px"/>
-
-<!-- 🐉 Dragonborn Engineer -->
-<img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-card-dragonborn.gif" width="260px"/>
-
-<!-- ⚔️ Full-Stack Spartan -->
-<img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/got-card-spartan.gif" width="260px"/>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 📜 **Legendary Projects – Chronicles of My Realm**
-
-### 🔥 AI Weapons  
-- 🐉 **Planzo — AI Study Strategist**  
-- 🔮 **Story Seed Unleashed — AI Mythmaker**  
-- ⚔️ **AI Resume War-Forged Optimizer**  
-
-### ⚔️ Full-Stack Expeditions  
-- Kingdom Event Management Dashboard  
-- Finance Oracle Analytics System  
-- Smart Food Ordering Realm  
-
----
-
-<!-- 🔥 DRAGON FIRE LOOP -->
+# 🔥 *“Fire cannot kill a dragon. It only awakens one.”*
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikAgrawal/Resources/master/fire.gif" width="260px"/>
+  <img src="https://raw.githubusercontent.com/BhavikAgrawal/Resources/master/fire.gif" width="250"/>
 </p>
-
-<h3 align="center"><i>
-"Fire cannot kill a dragon.  
-But it awakens one."
-</i></h3>
-
----
-
-# 🌐 **Summon Me**
-<p align="center">
-  <a href="https://pmadhankumar.netlify.app"><img src="https://skillicons.dev/icons?i=web" width="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://github.com/Madhan-Tech-AI"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-</p>
-
-<!-- 🔥 FINAL RUNE BORDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BlackTimber-Labs/Assets/main/rune-border-red.gif" width="100%"/>
-</p>
-
